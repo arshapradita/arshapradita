@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on Front-End Web Developer<br>🤝 I’m looking for help with studying Go<br>🌱 I’m currently learning QA (manual & automation), front-end web and Go
+🔭 I’m currently working on Front-End Web Developer<br>🤝 I’m looking for help with studying Framer Motion<br>🌱 I’m currently learning front-end (animation)
 
 
 ## 🌐 Socials:
