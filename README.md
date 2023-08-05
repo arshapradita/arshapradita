@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on Front-End Web Developer<br>🤝 I’m looking for help with studying Framer Motion<br>🌱 I’m currently learning nuxt (new update)
+🔭 I’m currently working on Front-End Web Developer<br>🤝 I’m looking for help with studying mikrotik<br>🌱 I’m currently learning nuxt (new update) and mikrotik
 
 
 ## 🌐 Socials:
