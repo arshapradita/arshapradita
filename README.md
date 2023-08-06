@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on Front-End Web Developer<br>🤝 I’m looking for help with studying mikrotik<br>🌱 I’m currently learning nuxt (new update) and mikrotik
+🔭 I’m currently working on Front-End Web Developer<br>🤝 I’m looking for help with studying -<br>🌱 I’m currently learning laravel
 
 
 ## 🌐 Socials:
