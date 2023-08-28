@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on Front-End Web Developer<br>🤝 I’m looking for help with studying -<br>🌱 I’m currently learning laravel
+🔭 I’m currently working on Front-End Web Developer<br>🤝 I’m looking for help with studying -<br>🌱 I’m currently learning laravel 10 and nuxt 3.7
 
 
 ## 🌐 Socials:
